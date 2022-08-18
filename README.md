@@ -24,7 +24,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 ### Links 
 
 - URL da solução: [GitHub](https://github.com/guhmonarin/qr-code-component.git) 
-- URL do site ativo : [Vercel](https://your-live-site-url.com) 
+- URL do site ativo : [Vercel](https://qr-code-component-one-beta.vercel.app/) 
 
 ## Meu processo 
 
