@@ -30,10 +30,8 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Construído com 
 
-- Marcação HTML5 semântica 
-- Propriedades personalizadas de CSS 
-- Flexbox
-- Media queries
+- HTML5
+- CSS 
 
 ### O que aprendi 
 
